@@ -1,1 +1,2 @@
 dodajcie referencje w tym folderze
+name.jpg -> {name}ref{number}
