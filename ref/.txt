@@ -1,2 +1,15 @@
 dodajcie referencje w tym folderze
 name.jpg -> {name}ref{number}
+cc222:
+1: building
+2: building
+3: building, roofs
+4: building
+5: building, neon
+6: building, roof
+7: building, neon
+8: building
+9: building
+10: building
+11: building
+12: building, roof
