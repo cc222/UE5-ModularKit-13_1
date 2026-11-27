@@ -27,3 +27,17 @@ sk0l0pendra:
 10: building
 11: building
 12: building
+
+metox:
+1.building 
+2.building, neon
+3.building
+4.building, neon
+5.building, roof 
+6.building
+7.building
+8.building
+9.building
+10.building, neon
+11.building, neon
+12.building
